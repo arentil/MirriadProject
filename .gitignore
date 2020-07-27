@@ -1,0 +1,11 @@
+#DIRECTORIES
+.vs
+bin
+bin-int
+
+#FILES
+MirriadProject.VC.VC.opendb
+MirriadProject.VC.db
+MirriadProject.sln
+job_scheduler/job_scheduler.vcxproj
+job_scheduler/job_scheduler.vcxproj.filters
